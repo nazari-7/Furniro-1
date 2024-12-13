@@ -1,0 +1,110 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.SeacrBar {
+  position: relative;
+  width: 250px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.item1 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.item2 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.item3 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.item4 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.text {
+  font-size: 16px;
+}
+
+.number {
+  font-size: 16px;
+}
+.container1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.image1 {
+  display: flex;
+  justify-content: space-between;
+  width: 350px;
+}
+.image11 {
+  width: 80px;
+  height: 80px;
+  top: 1156px;
+  left: 1023px;
+  border-radius: 10px;
+}
+.image2 {
+  display: flex;
+  justify-content: space-between;
+  width: 367px;
+}
+.image22 {
+  width: 80px;
+  height: 80px;
+  top: 1275px;
+  left: 1023px;
+  border-radius: 10px;
+}
+.image3 {
+  display: flex;
+  justify-content: space-between;
+  width: 377px;
+}
+.image33 {
+  width: 80px;
+  height: 80px;
+  top: 1394px;
+  left: 1023px;
+  border-radius: 10px;
+}
+.image4 {
+  display: flex;
+  justify-content: space-between;
+  width: 340px;
+}
+.image44 {
+  width: 80px;
+  height: 80px;
+  top: 1513px;
+  left: 1023px;
+  border-radius: 10px;
+}
+
+.image5 {
+  display: flex;
+  justify-content: space-between;
+  width: 338px;
+}
+.image55 {
+  width: 80px;
+  height: 80px;
+  top: 1623px;
+  left: 1023px;
+  border-radius: 10px;
+}
